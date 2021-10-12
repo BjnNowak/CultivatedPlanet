@@ -1,1 +1,3 @@
-# Hello World
+# Our Cultivated Planet
+
+This table shows **the ten most cultivated crops of the world.** Of 1,400 million hectares (Mha) of arable land, more than a third is covered by the three major cereals: wheat, maize and rice. Soybeans are the only other crop to be grown on more than 100 Mha, with strong growth over the last 30 years, while other crops covers much smaller areas. Although they do not always have the highest yields, the largest countries (USA, China, Russia, India, etc.) are the main grain producers, with more or less regional specificities depending on the crop. the largest producers are not always the largest exporters (as in the case of the USA for millet).
