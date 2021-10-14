@@ -1,6 +1,6 @@
 # One Farm
 
-This project is a compilation of two tables (one for crop productions, one for animal productions) summarizing **the main key figures about world farming**. The R scripts and data used to create these tables are available in this directory.
+This project is a compilation of two tables (one for crop productions, one for animal productions) summarizing **the main key figures about world farming**, based on data from the FAO. The R scripts and data used to create these tables are available in this directory.
 
 ## Crop productions (code [here](https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/Scripts/SC_CultivatedPlanet.R))
 
