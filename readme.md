@@ -6,4 +6,4 @@
 
 ## The Big Barnyard
 
-![](https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/Tables/BigBarnyard.png)
+![](https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/Tables/TheBigBarnyard.png)
