@@ -1,6 +1,6 @@
 # One Farm
 
-The "One Farm"  project is a compilation of two tables (one for crop productions, one for animal productions) summarizing **the main key figures about world farming** , based on [data from the Food and Agriculture Organization (FAO)](https://www.fao.org/faostat/en/#home). The R scripts and data used to create these tables are available in this repository.
+The "One Farm"  project is a compilation of two tables (<span style='color:green'>**Our Cultivated Planet**</span> for crop productions and **The Big Barnyard** for animal productions) summarizing **the main key figures about world farming** , based on [data from the Food and Agriculture Organization (FAO)](https://www.fao.org/faostat/en/#home). The R scripts and data used to create these tables are available in this repository.
 
 There are many ways to compare agricultural productions, such as the number of calories produced, but for this project I wanted to use the simplest metrics, such as the area occupied by each crop or the number of animals of each species. 
 
