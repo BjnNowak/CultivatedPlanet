@@ -18,3 +18,9 @@ Regarding the production factors,  as the world's population increases, there ar
 ## Animal production (code [here](https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/Scripts/SC_BigBarnyard.R))
 
 ![](https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/Tables/TheBigBarnyard.png)
+
+## Want more details?
+
+Each plot or map inside the tables in a ggplot object. Several choices have been made to allow the readability of these illustrations in the tables (minimal x-/y- axis for the plots, no color legend for the maps, etc...). But the functions used to create the illustations can be extracted to create single, more detailed figures, as in the example below. 
+
+![](https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/AdditionalFigures/CattleStocks.png)
