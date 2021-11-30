@@ -35,7 +35,7 @@ data<-read_csv('https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main
 # balance<-read_csv("FoodBalanceSheets_E_All_Data_(Normalized).csv")
 
 # Subset with only necessary data for this table:
-balance<-read_csv('https://github.com/BjnNowak/CultivatedPlanet/blob/main/data/FAO_FoodBalance_subset.csv')
+balance<-read_csv('https://raw.githubusercontent.com/BjnNowak/CultivatedPlanet/main/data/FAO_FoodBalance_subset.csv')
 
 # Data preparation---------------------
 
